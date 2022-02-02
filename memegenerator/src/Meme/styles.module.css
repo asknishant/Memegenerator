@@ -1,0 +1,11 @@
+.container {
+    margin-top: 50px;
+}
+
+.skip {
+    background-color: grey;
+}
+
+.generate {
+    background-color: lightblue;
+}
